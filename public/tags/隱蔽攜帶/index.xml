@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>隱蔽攜帶 on AirsoftShotTimer</title>
-    <link>http://localhost:1313/tags/%E9%9A%B1%E8%94%BD%E6%94%9C%E5%B8%B6/</link>
+    <link>https://airsoft-shot-timer-web.vercel.app/tags/%E9%9A%B1%E8%94%BD%E6%94%9C%E5%B8%B6/</link>
     <description>Recent content in 隱蔽攜帶 on AirsoftShotTimer</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>zh-TW</language>
     <lastBuildDate>Tue, 28 Oct 2025 11:16:50 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E9%9A%B1%E8%94%BD%E6%94%9C%E5%B8%B6/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://airsoft-shot-timer-web.vercel.app/tags/%E9%9A%B1%E8%94%BD%E6%94%9C%E5%B8%B6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IDPA 防衛射擊完全訓練指南：實戰導向的戰術訓練</title>
-      <link>http://localhost:1313/posts/idpa-training-guide/</link>
+      <link>https://airsoft-shot-timer-web.vercel.app/posts/idpa-training-guide/</link>
       <pubDate>Tue, 28 Oct 2025 11:16:50 +0800</pubDate>
-      <guid>http://localhost:1313/posts/idpa-training-guide/</guid>
+      <guid>https://airsoft-shot-timer-web.vercel.app/posts/idpa-training-guide/</guid>
       <description>&lt;h2 id=&#34;什麼是-idpa&#34;&gt;什麼是 IDPA？&lt;/h2&gt;
 &lt;p&gt;IDPA（International Defensive Pistol Association，國際防衛手槍協會）是一項強調&lt;strong&gt;真實防衛情境&lt;/strong&gt;的射擊運動。與 IPSC 不同，IDPA 更注重實戰應用，要求射手使用&lt;strong&gt;隱蔽攜帶&lt;/strong&gt;裝備，在模擬日常威脅的場景中進行射擊。&lt;/p&gt;
 &lt;h3 id=&#34;idpa-核心理念&#34;&gt;IDPA 核心理念&lt;/h3&gt;
@@ -70,6 +70,9 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;💡 &lt;strong&gt;想了解更多 IPSC 訓練？&lt;/strong&gt; 請參考我們的 &lt;strong&gt;&lt;a href=&#34;https://airsoft-shot-timer-web.vercel.app/posts/ipsc-training-guide/&#34;&gt;IPSC 實用射擊完全訓練指南&lt;/a&gt;&lt;/strong&gt;，深入了解競技射擊的訓練方法。&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h3 id=&#34;規則特色&#34;&gt;規則特色&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;IDPA 獨特規則：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;

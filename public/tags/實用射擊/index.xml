@@ -2,19 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>實用射擊 on AirsoftShotTimer</title>
-    <link>http://localhost:1313/tags/%E5%AF%A6%E7%94%A8%E5%B0%84%E6%93%8A/</link>
+    <link>https://airsoft-shot-timer-web.vercel.app/tags/%E5%AF%A6%E7%94%A8%E5%B0%84%E6%93%8A/</link>
     <description>Recent content in 實用射擊 on AirsoftShotTimer</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>zh-TW</language>
     <lastBuildDate>Tue, 28 Oct 2025 11:11:32 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E5%AF%A6%E7%94%A8%E5%B0%84%E6%93%8A/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://airsoft-shot-timer-web.vercel.app/tags/%E5%AF%A6%E7%94%A8%E5%B0%84%E6%93%8A/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IPSC 實用射擊完全訓練指南：從新手到進階</title>
-      <link>http://localhost:1313/posts/ipsc-training-guide/</link>
+      <link>https://airsoft-shot-timer-web.vercel.app/posts/ipsc-training-guide/</link>
       <pubDate>Tue, 28 Oct 2025 11:11:32 +0800</pubDate>
-      <guid>http://localhost:1313/posts/ipsc-training-guide/</guid>
+      <guid>https://airsoft-shot-timer-web.vercel.app/posts/ipsc-training-guide/</guid>
       <description>&lt;h2 id=&#34;什麼是-ipsc&#34;&gt;什麼是 IPSC？&lt;/h2&gt;
 &lt;p&gt;IPSC（International Practical Shooting Confederation，國際實用射擊協會）是一項結合&lt;strong&gt;速度、準確度與威力&lt;/strong&gt;的射擊運動。與傳統靶場射擊不同，IPSC 強調在動態環境中快速、精準地擊中目標，更接近實戰情境。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;💡 &lt;strong&gt;延伸閱讀&lt;/strong&gt;：想了解更注重防衛實戰的射擊訓練？請參考我們的 &lt;strong&gt;&lt;a href=&#34;https://airsoft-shot-timer-web.vercel.app/posts/idpa-training-guide/&#34;&gt;IDPA 防衛射擊完全訓練指南&lt;/a&gt;&lt;/strong&gt;，比較兩種射擊運動的差異。&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h3 id=&#34;ipsc-核心原則dvc&#34;&gt;IPSC 核心原則：DVC&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;D (Diligentia)&lt;/strong&gt; - 準確度：每一發都要命中目標&lt;/li&gt;

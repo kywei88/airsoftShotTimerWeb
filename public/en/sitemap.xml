@@ -2,126 +2,196 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/</loc>
-    <lastmod>2025-10-26T05:45:00+08:00</lastmod>
+    <loc>https://airsoft-shot-timer-web.vercel.app/en/</loc>
+    <lastmod>2025-10-28T11:18:32+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/"
+                href="https://airsoft-shot-timer-web.vercel.app/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/"
+                href="https://airsoft-shot-timer-web.vercel.app/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/categories/</loc>
-    <lastmod>2025-10-26T05:45:00+08:00</lastmod>
+    <loc>https://airsoft-shot-timer-web.vercel.app/en/categories/</loc>
+    <lastmod>2025-10-28T11:18:32+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/categories/"
+                href="https://airsoft-shot-timer-web.vercel.app/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/categories/"
+                href="https://airsoft-shot-timer-web.vercel.app/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/glock-17/</loc>
-    <lastmod>2025-10-26T05:45:00+08:00</lastmod>
+    <loc>https://airsoft-shot-timer-web.vercel.app/en/posts/idpa-training-guide/</loc>
+    <lastmod>2025-10-28T11:18:32+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/tags/glock-17/"
+                href="https://airsoft-shot-timer-web.vercel.app/posts/idpa-training-guide/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/tags/glock-17/"
+                href="https://airsoft-shot-timer-web.vercel.app/en/posts/idpa-training-guide/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/glock17-training-guide/</loc>
-    <lastmod>2025-10-26T05:45:00+08:00</lastmod>
+    <loc>https://airsoft-shot-timer-web.vercel.app/en/tags/concealed-carry/</loc>
+    <lastmod>2025-10-28T11:18:32+08:00</lastmod>
+  </url><url>
+    <loc>https://airsoft-shot-timer-web.vercel.app/en/tags/defensive-shooting/</loc>
+    <lastmod>2025-10-28T11:18:32+08:00</lastmod>
+  </url><url>
+    <loc>https://airsoft-shot-timer-web.vercel.app/en/tags/idpa/</loc>
+    <lastmod>2025-10-28T11:18:32+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/posts/glock17-training-guide/"
+                href="https://airsoft-shot-timer-web.vercel.app/tags/idpa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/posts/glock17-training-guide/"
+                href="https://airsoft-shot-timer-web.vercel.app/en/tags/idpa/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/pistol-training/</loc>
-    <lastmod>2025-10-26T05:45:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/posts/</loc>
-    <lastmod>2025-10-26T05:45:00+08:00</lastmod>
+    <loc>https://airsoft-shot-timer-web.vercel.app/en/posts/</loc>
+    <lastmod>2025-10-28T11:18:32+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/posts/"
+                href="https://airsoft-shot-timer-web.vercel.app/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/posts/"
+                href="https://airsoft-shot-timer-web.vercel.app/en/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
-    <lastmod>2025-10-26T05:45:00+08:00</lastmod>
+    <loc>https://airsoft-shot-timer-web.vercel.app/en/tags/tactical-training/</loc>
+    <lastmod>2025-10-28T11:18:32+08:00</lastmod>
+  </url><url>
+    <loc>https://airsoft-shot-timer-web.vercel.app/en/tags/</loc>
+    <lastmod>2025-10-28T11:18:32+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/tags/"
+                href="https://airsoft-shot-timer-web.vercel.app/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/tags/"
+                href="https://airsoft-shot-timer-web.vercel.app/en/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/training-guide/</loc>
+    <loc>https://airsoft-shot-timer-web.vercel.app/en/categories/training-tips/</loc>
+    <lastmod>2025-10-28T11:18:32+08:00</lastmod>
+  </url><url>
+    <loc>https://airsoft-shot-timer-web.vercel.app/en/tags/competition-training/</loc>
+    <lastmod>2025-10-28T11:14:15+08:00</lastmod>
+  </url><url>
+    <loc>https://airsoft-shot-timer-web.vercel.app/en/posts/ipsc-training-guide/</loc>
+    <lastmod>2025-10-28T11:14:15+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-TW"
+                href="https://airsoft-shot-timer-web.vercel.app/posts/ipsc-training-guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://airsoft-shot-timer-web.vercel.app/en/posts/ipsc-training-guide/"
+                />
+  </url><url>
+    <loc>https://airsoft-shot-timer-web.vercel.app/en/tags/ipsc/</loc>
+    <lastmod>2025-10-28T11:14:15+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-TW"
+                href="https://airsoft-shot-timer-web.vercel.app/tags/ipsc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://airsoft-shot-timer-web.vercel.app/en/tags/ipsc/"
+                />
+  </url><url>
+    <loc>https://airsoft-shot-timer-web.vercel.app/en/tags/practical-shooting/</loc>
+    <lastmod>2025-10-28T11:14:15+08:00</lastmod>
+  </url><url>
+    <loc>https://airsoft-shot-timer-web.vercel.app/en/tags/timer-training/</loc>
+    <lastmod>2025-10-28T11:14:15+08:00</lastmod>
+  </url><url>
+    <loc>https://airsoft-shot-timer-web.vercel.app/en/tags/glock-17/</loc>
+    <lastmod>2025-10-26T05:45:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-TW"
+                href="https://airsoft-shot-timer-web.vercel.app/tags/glock-17/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://airsoft-shot-timer-web.vercel.app/en/tags/glock-17/"
+                />
+  </url><url>
+    <loc>https://airsoft-shot-timer-web.vercel.app/en/posts/glock17-training-guide/</loc>
+    <lastmod>2025-10-26T05:45:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-TW"
+                href="https://airsoft-shot-timer-web.vercel.app/posts/glock17-training-guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://airsoft-shot-timer-web.vercel.app/en/posts/glock17-training-guide/"
+                />
+  </url><url>
+    <loc>https://airsoft-shot-timer-web.vercel.app/en/tags/pistol-training/</loc>
     <lastmod>2025-10-26T05:45:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/categories/training-tips/</loc>
+    <loc>https://airsoft-shot-timer-web.vercel.app/en/tags/training-guide/</loc>
     <lastmod>2025-10-26T05:45:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/announcement/</loc>
+    <loc>https://airsoft-shot-timer-web.vercel.app/en/tags/announcement/</loc>
     <lastmod>2025-10-26T05:36:40+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/beginner-guide/</loc>
+    <loc>https://airsoft-shot-timer-web.vercel.app/en/tags/beginner-guide/</loc>
     <lastmod>2025-10-26T05:36:40+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/categories/general/</loc>
+    <loc>https://airsoft-shot-timer-web.vercel.app/en/categories/general/</loc>
     <lastmod>2025-10-26T05:36:40+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/posts/welcome/</loc>
+    <loc>https://airsoft-shot-timer-web.vercel.app/en/posts/welcome/</loc>
     <lastmod>2025-10-26T05:36:40+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/posts/welcome/"
+                href="https://airsoft-shot-timer-web.vercel.app/posts/welcome/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/posts/welcome/"
+                href="https://airsoft-shot-timer-web.vercel.app/en/posts/welcome/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/about/</loc>
+    <loc>https://airsoft-shot-timer-web.vercel.app/en/about/</loc>
     <lastmod>2025-10-26T05:36:24+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/about/"
+                href="https://airsoft-shot-timer-web.vercel.app/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/about/"
+                href="https://airsoft-shot-timer-web.vercel.app/en/about/"
                 />
   </url>
 </urlset>

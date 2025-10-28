@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AirsoftShotTimer</title>
-    <link>http://localhost:1313/</link>
+    <link>https://airsoft-shot-timer-web.vercel.app/</link>
     <description>Recent content on AirsoftShotTimer</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>zh-TW</language>
     <lastBuildDate>Tue, 28 Oct 2025 11:16:50 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://airsoft-shot-timer-web.vercel.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IDPA 防衛射擊完全訓練指南：實戰導向的戰術訓練</title>
-      <link>http://localhost:1313/posts/idpa-training-guide/</link>
+      <link>https://airsoft-shot-timer-web.vercel.app/posts/idpa-training-guide/</link>
       <pubDate>Tue, 28 Oct 2025 11:16:50 +0800</pubDate>
-      <guid>http://localhost:1313/posts/idpa-training-guide/</guid>
+      <guid>https://airsoft-shot-timer-web.vercel.app/posts/idpa-training-guide/</guid>
       <description>&lt;h2 id=&#34;什麼是-idpa&#34;&gt;什麼是 IDPA？&lt;/h2&gt;
 &lt;p&gt;IDPA（International Defensive Pistol Association，國際防衛手槍協會）是一項強調&lt;strong&gt;真實防衛情境&lt;/strong&gt;的射擊運動。與 IPSC 不同，IDPA 更注重實戰應用，要求射手使用&lt;strong&gt;隱蔽攜帶&lt;/strong&gt;裝備，在模擬日常威脅的場景中進行射擊。&lt;/p&gt;
 &lt;h3 id=&#34;idpa-核心理念&#34;&gt;IDPA 核心理念&lt;/h3&gt;
@@ -70,6 +70,9 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;💡 &lt;strong&gt;想了解更多 IPSC 訓練？&lt;/strong&gt; 請參考我們的 &lt;strong&gt;&lt;a href=&#34;https://airsoft-shot-timer-web.vercel.app/posts/ipsc-training-guide/&#34;&gt;IPSC 實用射擊完全訓練指南&lt;/a&gt;&lt;/strong&gt;，深入了解競技射擊的訓練方法。&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h3 id=&#34;規則特色&#34;&gt;規則特色&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;IDPA 獨特規則：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
@@ -116,11 +119,14 @@
     </item>
     <item>
       <title>IPSC 實用射擊完全訓練指南：從新手到進階</title>
-      <link>http://localhost:1313/posts/ipsc-training-guide/</link>
+      <link>https://airsoft-shot-timer-web.vercel.app/posts/ipsc-training-guide/</link>
       <pubDate>Tue, 28 Oct 2025 11:11:32 +0800</pubDate>
-      <guid>http://localhost:1313/posts/ipsc-training-guide/</guid>
+      <guid>https://airsoft-shot-timer-web.vercel.app/posts/ipsc-training-guide/</guid>
       <description>&lt;h2 id=&#34;什麼是-ipsc&#34;&gt;什麼是 IPSC？&lt;/h2&gt;
 &lt;p&gt;IPSC（International Practical Shooting Confederation，國際實用射擊協會）是一項結合&lt;strong&gt;速度、準確度與威力&lt;/strong&gt;的射擊運動。與傳統靶場射擊不同，IPSC 強調在動態環境中快速、精準地擊中目標，更接近實戰情境。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;💡 &lt;strong&gt;延伸閱讀&lt;/strong&gt;：想了解更注重防衛實戰的射擊訓練？請參考我們的 &lt;strong&gt;&lt;a href=&#34;https://airsoft-shot-timer-web.vercel.app/posts/idpa-training-guide/&#34;&gt;IDPA 防衛射擊完全訓練指南&lt;/a&gt;&lt;/strong&gt;，比較兩種射擊運動的差異。&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h3 id=&#34;ipsc-核心原則dvc&#34;&gt;IPSC 核心原則：DVC&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;D (Diligentia)&lt;/strong&gt; - 準確度：每一發都要命中目標&lt;/li&gt;
@@ -174,9 +180,9 @@
     </item>
     <item>
       <title>Glock 17 訓練指南：使用 AirsoftShotTimer 提升射擊技巧</title>
-      <link>http://localhost:1313/posts/glock17-training-guide/</link>
+      <link>https://airsoft-shot-timer-web.vercel.app/posts/glock17-training-guide/</link>
       <pubDate>Sun, 26 Oct 2025 05:45:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/glock17-training-guide/</guid>
+      <guid>https://airsoft-shot-timer-web.vercel.app/posts/glock17-training-guide/</guid>
       <description>&lt;h2 id=&#34;glock-17-生存遊戲訓練完全指南&#34;&gt;Glock 17 生存遊戲訓練完全指南&lt;/h2&gt;
 &lt;p&gt;Glock 17 是生存遊戲中最受歡迎的手槍之一，其可靠性和易用性使其成為新手和老手的最佳選擇。本文將介紹如何使用 AirsoftShotTimer 來提升您的 Glock 17 射擊技巧。&lt;/p&gt;
 &lt;h2 id=&#34;為什麼選擇-glock-17&#34;&gt;為什麼選擇 Glock 17？&lt;/h2&gt;
@@ -187,6 +193,13 @@
 &lt;li&gt;&lt;strong&gt;可靠性高&lt;/strong&gt;：在各種環境下都能穩定運作&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;配件豐富&lt;/strong&gt;：可自訂性強，容易升級改裝&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3 id=&#34;glock-17-與競技射擊&#34;&gt;Glock 17 與競技射擊&lt;/h3&gt;
+&lt;p&gt;Glock 17 在各種射擊運動中都有出色表現，特別適合：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://airsoft-shot-timer-web.vercel.app/posts/ipsc-training-guide/&#34;&gt;IPSC 實用射擊&lt;/a&gt;&lt;/strong&gt;：Glock 17 屬於 Production 組別，適合追求速度與準確度的競技射擊&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://airsoft-shot-timer-web.vercel.app/posts/idpa-training-guide/&#34;&gt;IDPA 防衛射擊&lt;/a&gt;&lt;/strong&gt;：符合 SSP 組別標準，是日常攜帶防衛訓練的理想選擇&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;無論您選擇哪種射擊運動，Glock 17 的可靠性和易用性都能讓您專注於技術提升。&lt;/p&gt;
 &lt;h2 id=&#34;基礎訓練科目&#34;&gt;基礎訓練科目&lt;/h2&gt;
 &lt;h3 id=&#34;1-拔槍訓練draw-practice&#34;&gt;1. 拔槍訓練（Draw Practice）&lt;/h3&gt;
 &lt;p&gt;使用 AirsoftShotTimer 訓練從槍套快速拔槍並擊發的時間。&lt;/p&gt;
@@ -211,22 +224,13 @@
 &lt;li&gt;目標間距離 1-2 公尺&lt;/li&gt;
 &lt;li&gt;每個目標射擊 2 發（雙擊）&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;使用 AirsoftShotTimer：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;設定計時器&lt;/li&gt;
-&lt;li&gt;聽到開始訊號後，依序射擊所有目標&lt;/li&gt;
-&lt;li&gt;記錄完成時間&lt;/li&gt;
-&lt;li&gt;分析轉換速度和準確度&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;3-快速換彈匣訓練&#34;&gt;3. 快速換彈匣訓練&lt;/h3&gt;
-&lt;p&gt;Glock 17 的彈匣設計讓換彈匣既快速又直覺。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;訓練流程：&lt;/strong&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;使用 AirsoftShotTimer：&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>歡迎使用 AirsoftShotTimer！</title>
-      <link>http://localhost:1313/posts/welcome/</link>
+      <link>https://airsoft-shot-timer-web.vercel.app/posts/welcome/</link>
       <pubDate>Sun, 26 Oct 2025 05:36:40 +0800</pubDate>
-      <guid>http://localhost:1313/posts/welcome/</guid>
+      <guid>https://airsoft-shot-timer-web.vercel.app/posts/welcome/</guid>
       <description>&lt;h2 id=&#34;歡迎來到-airsoftshottimer-部落格&#34;&gt;歡迎來到 AirsoftShotTimer 部落格！&lt;/h2&gt;
 &lt;p&gt;我們很高興能在這裡與您分享 AirsoftShotTimer 的各種功能和使用技巧。&lt;/p&gt;
 &lt;h3 id=&#34;這個部落格會分享什麼&#34;&gt;這個部落格會分享什麼？&lt;/h3&gt;
@@ -234,7 +238,13 @@
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;功能介紹&lt;/strong&gt;：深入介紹 AirsoftShotTimer 的各項功能&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;使用教學&lt;/strong&gt;：step-by-step 的操作指南&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;訓練技巧&lt;/strong&gt;：提升射擊技能的實用建議&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;訓練技巧&lt;/strong&gt;：提升射擊技能的實用建議，包括：
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://airsoft-shot-timer-web.vercel.app/posts/glock17-training-guide/&#34;&gt;Glock 17 訓練指南&lt;/a&gt;：從基礎到進階的完整訓練計畫&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://airsoft-shot-timer-web.vercel.app/posts/ipsc-training-guide/&#34;&gt;IPSC 實用射擊訓練&lt;/a&gt;：競技射擊的速度與準確度訓練&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://airsoft-shot-timer-web.vercel.app/posts/idpa-training-guide/&#34;&gt;IDPA 防衛射擊訓練&lt;/a&gt;：實戰導向的戰術訓練&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;更新公告&lt;/strong&gt;：最新版本的功能更新&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;用戶故事&lt;/strong&gt;：分享使用者的訓練心得&lt;/li&gt;
 &lt;/ol&gt;
@@ -252,11 +262,11 @@
     </item>
     <item>
       <title>關於 AirsoftShotTimer</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://airsoft-shot-timer-web.vercel.app/about/</link>
       <pubDate>Sun, 26 Oct 2025 05:36:24 +0800</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://airsoft-shot-timer-web.vercel.app/about/</guid>
       <description>&lt;h2 id=&#34;airsoftshottimer專業-ipscipda-射手的計時利器&#34;&gt;AirsoftShotTimer：專業 IPSC/IPDA 射手的計時利器&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;戰術訓練場景&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/about/main.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;戰術訓練場景&#34; loading=&#34;lazy&#34; src=&#34;https://airsoft-shot-timer-web.vercel.app/images/about/main.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;專為生存遊戲（Airsoft）與 IPSC、IPDA 射手設計，結合手機便利與高精度的射擊計時功能，讓你的訓練更有效、更精準。&lt;/p&gt;
 &lt;h2 id=&#34;核心亮點&#34;&gt;核心亮點&lt;/h2&gt;
 &lt;h3 id=&#34;先進槍聲辨識演算法&#34;&gt;先進槍聲辨識演算法&lt;/h3&gt;

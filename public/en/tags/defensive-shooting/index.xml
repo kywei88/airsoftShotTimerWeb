@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Defensive Shooting on AirsoftShotTimer</title>
-    <link>http://localhost:1313/en/tags/defensive-shooting/</link>
+    <link>https://airsoft-shot-timer-web.vercel.app/en/tags/defensive-shooting/</link>
     <description>Recent content in Defensive Shooting on AirsoftShotTimer</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 28 Oct 2025 11:18:32 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/defensive-shooting/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://airsoft-shot-timer-web.vercel.app/en/tags/defensive-shooting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Complete IDPA Training Guide: Combat-Oriented Tactical Training</title>
-      <link>http://localhost:1313/en/posts/idpa-training-guide/</link>
+      <link>https://airsoft-shot-timer-web.vercel.app/en/posts/idpa-training-guide/</link>
       <pubDate>Tue, 28 Oct 2025 11:18:32 +0800</pubDate>
-      <guid>http://localhost:1313/en/posts/idpa-training-guide/</guid>
+      <guid>https://airsoft-shot-timer-web.vercel.app/en/posts/idpa-training-guide/</guid>
       <description>&lt;h2 id=&#34;what-is-idpa&#34;&gt;What is IDPA?&lt;/h2&gt;
 &lt;p&gt;IDPA (International Defensive Pistol Association) is a shooting sport emphasizing &lt;strong&gt;realistic defensive scenarios&lt;/strong&gt;. Unlike IPSC, IDPA focuses more on practical application, requiring shooters to use &lt;strong&gt;concealed carry&lt;/strong&gt; equipment and shoot in scenarios simulating everyday threats.&lt;/p&gt;
 &lt;h3 id=&#34;idpa-core-philosophy&#34;&gt;IDPA Core Philosophy&lt;/h3&gt;
@@ -70,48 +70,8 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h3 id=&#34;unique-idpa-rules&#34;&gt;Unique IDPA Rules&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Magazine Management&lt;/strong&gt;: 3-second penalty for dropped magazines&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Cover Requirements&lt;/strong&gt;: Penalty for &amp;gt;50% body exposure&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Strict Safe Area&lt;/strong&gt;: Cannot even load magazines&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Concealed Carry&lt;/strong&gt;: Holster must be suitable for daily use&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tactical Priority&lt;/strong&gt;: Emphasizes safe movement and cover&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;idpa-competition-divisions&#34;&gt;IDPA Competition Divisions&lt;/h2&gt;
-&lt;h3 id=&#34;ssp-stock-service-pistol&#34;&gt;SSP (Stock Service Pistol)&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Closest to factory condition&lt;/li&gt;
-&lt;li&gt;Suitable for beginners and daily carriers&lt;/li&gt;
-&lt;li&gt;Common models: Glock, M&amp;amp;P, CZ&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;esp-enhanced-service-pistol&#34;&gt;ESP (Enhanced Service Pistol)&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Allows basic modifications&lt;/li&gt;
-&lt;li&gt;Can use larger calibers&lt;/li&gt;
-&lt;li&gt;Common models: 1911, CZ Shadow&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;ccp-compact-carry-pistol&#34;&gt;CCP (Compact Carry Pistol)&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Small daily carry pistols&lt;/li&gt;
-&lt;li&gt;Length and weight restrictions&lt;/li&gt;
-&lt;li&gt;Suitable for actual CCW training&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;cdp-custom-defensive-pistol&#34;&gt;CDP (Custom Defensive Pistol)&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Allows custom modifications&lt;/li&gt;
-&lt;li&gt;Primarily for 1911 systems&lt;/li&gt;
-&lt;li&gt;Pursues accuracy and comfort&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;rev-revolver&#34;&gt;REV (Revolver)&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Revolver-specific division&lt;/li&gt;
-&lt;li&gt;Preserves traditional shooting techniques&lt;/li&gt;
-&lt;li&gt;Emphasizes fundamental shooting ability&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;idpa-training-with-airsoftshottimer&#34;&gt;IDPA Training with AirsoftShotTimer&lt;/h2&gt;
-&lt;h3 id=&#34;1-concealed-carry-draw-training&#34;&gt;1. Concealed Carry Draw Training&lt;/h3&gt;
-&lt;p&gt;IDPA requires drawing from concealed carry status, more challenging than open holsters.&lt;/p&gt;</description>
+&lt;blockquote&gt;
+&lt;p&gt;💡 &lt;strong&gt;Want to learn more about IPSC training?&lt;/strong&gt; Check out our &lt;strong&gt;&lt;a href=&#34;https://airsoft-shot-timer-web.vercel.app/en/posts/ipsc-training-guide/&#34;&gt;Complete IPSC Training Guide&lt;/a&gt;&lt;/strong&gt; to understand competitive shooting training methods in depth.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,45 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on AirsoftShotTimer</title>
-    <link>http://localhost:1313/en/tags/</link>
+    <link>https://airsoft-shot-timer-web.vercel.app/en/tags/</link>
     <description>Recent content in Tags on AirsoftShotTimer</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 26 Oct 2025 05:45:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Oct 2025 11:18:32 +0800</lastBuildDate>
+    <atom:link href="https://airsoft-shot-timer-web.vercel.app/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Concealed Carry</title>
+      <link>https://airsoft-shot-timer-web.vercel.app/en/tags/concealed-carry/</link>
+      <pubDate>Tue, 28 Oct 2025 11:18:32 +0800</pubDate>
+      <guid>https://airsoft-shot-timer-web.vercel.app/en/tags/concealed-carry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Defensive Shooting</title>
+      <link>https://airsoft-shot-timer-web.vercel.app/en/tags/defensive-shooting/</link>
+      <pubDate>Tue, 28 Oct 2025 11:18:32 +0800</pubDate>
+      <guid>https://airsoft-shot-timer-web.vercel.app/en/tags/defensive-shooting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IDPA</title>
+      <link>https://airsoft-shot-timer-web.vercel.app/en/tags/idpa/</link>
+      <pubDate>Tue, 28 Oct 2025 11:18:32 +0800</pubDate>
+      <guid>https://airsoft-shot-timer-web.vercel.app/en/tags/idpa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tactical Training</title>
+      <link>https://airsoft-shot-timer-web.vercel.app/en/tags/tactical-training/</link>
+      <pubDate>Tue, 28 Oct 2025 11:18:32 +0800</pubDate>
+      <guid>https://airsoft-shot-timer-web.vercel.app/en/tags/tactical-training/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Competition Training</title>
+      <link>https://airsoft-shot-timer-web.vercel.app/en/tags/competition-training/</link>
+      <pubDate>Tue, 28 Oct 2025 11:14:15 +0800</pubDate>
+      <guid>https://airsoft-shot-timer-web.vercel.app/en/tags/competition-training/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IPSC</title>
+      <link>https://airsoft-shot-timer-web.vercel.app/en/tags/ipsc/</link>
+      <pubDate>Tue, 28 Oct 2025 11:14:15 +0800</pubDate>
+      <guid>https://airsoft-shot-timer-web.vercel.app/en/tags/ipsc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Practical Shooting</title>
+      <link>https://airsoft-shot-timer-web.vercel.app/en/tags/practical-shooting/</link>
+      <pubDate>Tue, 28 Oct 2025 11:14:15 +0800</pubDate>
+      <guid>https://airsoft-shot-timer-web.vercel.app/en/tags/practical-shooting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Timer Training</title>
+      <link>https://airsoft-shot-timer-web.vercel.app/en/tags/timer-training/</link>
+      <pubDate>Tue, 28 Oct 2025 11:14:15 +0800</pubDate>
+      <guid>https://airsoft-shot-timer-web.vercel.app/en/tags/timer-training/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Glock 17</title>
-      <link>http://localhost:1313/en/tags/glock-17/</link>
+      <link>https://airsoft-shot-timer-web.vercel.app/en/tags/glock-17/</link>
       <pubDate>Sun, 26 Oct 2025 05:45:00 +0800</pubDate>
-      <guid>http://localhost:1313/en/tags/glock-17/</guid>
+      <guid>https://airsoft-shot-timer-web.vercel.app/en/tags/glock-17/</guid>
       <description></description>
     </item>
     <item>
       <title>Pistol Training</title>
-      <link>http://localhost:1313/en/tags/pistol-training/</link>
+      <link>https://airsoft-shot-timer-web.vercel.app/en/tags/pistol-training/</link>
       <pubDate>Sun, 26 Oct 2025 05:45:00 +0800</pubDate>
-      <guid>http://localhost:1313/en/tags/pistol-training/</guid>
+      <guid>https://airsoft-shot-timer-web.vercel.app/en/tags/pistol-training/</guid>
       <description></description>
     </item>
     <item>
       <title>Training Guide</title>
-      <link>http://localhost:1313/en/tags/training-guide/</link>
+      <link>https://airsoft-shot-timer-web.vercel.app/en/tags/training-guide/</link>
       <pubDate>Sun, 26 Oct 2025 05:45:00 +0800</pubDate>
-      <guid>http://localhost:1313/en/tags/training-guide/</guid>
+      <guid>https://airsoft-shot-timer-web.vercel.app/en/tags/training-guide/</guid>
       <description></description>
     </item>
     <item>
       <title>Announcement</title>
-      <link>http://localhost:1313/en/tags/announcement/</link>
+      <link>https://airsoft-shot-timer-web.vercel.app/en/tags/announcement/</link>
       <pubDate>Sun, 26 Oct 2025 05:36:40 +0800</pubDate>
-      <guid>http://localhost:1313/en/tags/announcement/</guid>
+      <guid>https://airsoft-shot-timer-web.vercel.app/en/tags/announcement/</guid>
       <description></description>
     </item>
     <item>
       <title>Beginner Guide</title>
-      <link>http://localhost:1313/en/tags/beginner-guide/</link>
+      <link>https://airsoft-shot-timer-web.vercel.app/en/tags/beginner-guide/</link>
       <pubDate>Sun, 26 Oct 2025 05:36:40 +0800</pubDate>
-      <guid>http://localhost:1313/en/tags/beginner-guide/</guid>
+      <guid>https://airsoft-shot-timer-web.vercel.app/en/tags/beginner-guide/</guid>
       <description></description>
     </item>
   </channel>

@@ -11,7 +11,12 @@
       "Bash(curl:*)",
       "Bash(tree:*)",
       "WebSearch",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(gh auth status:*)",
+      "Bash(gh repo create:*)",
+      "Bash(git push)",
+      "Bash(hugo:*)"
     ],
     "deny": [],
     "ask": []

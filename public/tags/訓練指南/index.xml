@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>訓練指南 on AirsoftShotTimer</title>
-    <link>http://localhost:1313/tags/%E8%A8%93%E7%B7%B4%E6%8C%87%E5%8D%97/</link>
+    <link>https://airsoft-shot-timer-web.vercel.app/tags/%E8%A8%93%E7%B7%B4%E6%8C%87%E5%8D%97/</link>
     <description>Recent content in 訓練指南 on AirsoftShotTimer</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>zh-TW</language>
     <lastBuildDate>Sun, 26 Oct 2025 05:45:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E8%A8%93%E7%B7%B4%E6%8C%87%E5%8D%97/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://airsoft-shot-timer-web.vercel.app/tags/%E8%A8%93%E7%B7%B4%E6%8C%87%E5%8D%97/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Glock 17 訓練指南：使用 AirsoftShotTimer 提升射擊技巧</title>
-      <link>http://localhost:1313/posts/glock17-training-guide/</link>
+      <link>https://airsoft-shot-timer-web.vercel.app/posts/glock17-training-guide/</link>
       <pubDate>Sun, 26 Oct 2025 05:45:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/glock17-training-guide/</guid>
+      <guid>https://airsoft-shot-timer-web.vercel.app/posts/glock17-training-guide/</guid>
       <description>&lt;h2 id=&#34;glock-17-生存遊戲訓練完全指南&#34;&gt;Glock 17 生存遊戲訓練完全指南&lt;/h2&gt;
 &lt;p&gt;Glock 17 是生存遊戲中最受歡迎的手槍之一，其可靠性和易用性使其成為新手和老手的最佳選擇。本文將介紹如何使用 AirsoftShotTimer 來提升您的 Glock 17 射擊技巧。&lt;/p&gt;
 &lt;h2 id=&#34;為什麼選擇-glock-17&#34;&gt;為什麼選擇 Glock 17？&lt;/h2&gt;
@@ -23,6 +23,13 @@
 &lt;li&gt;&lt;strong&gt;可靠性高&lt;/strong&gt;：在各種環境下都能穩定運作&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;配件豐富&lt;/strong&gt;：可自訂性強，容易升級改裝&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3 id=&#34;glock-17-與競技射擊&#34;&gt;Glock 17 與競技射擊&lt;/h3&gt;
+&lt;p&gt;Glock 17 在各種射擊運動中都有出色表現，特別適合：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://airsoft-shot-timer-web.vercel.app/posts/ipsc-training-guide/&#34;&gt;IPSC 實用射擊&lt;/a&gt;&lt;/strong&gt;：Glock 17 屬於 Production 組別，適合追求速度與準確度的競技射擊&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://airsoft-shot-timer-web.vercel.app/posts/idpa-training-guide/&#34;&gt;IDPA 防衛射擊&lt;/a&gt;&lt;/strong&gt;：符合 SSP 組別標準，是日常攜帶防衛訓練的理想選擇&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;無論您選擇哪種射擊運動，Glock 17 的可靠性和易用性都能讓您專注於技術提升。&lt;/p&gt;
 &lt;h2 id=&#34;基礎訓練科目&#34;&gt;基礎訓練科目&lt;/h2&gt;
 &lt;h3 id=&#34;1-拔槍訓練draw-practice&#34;&gt;1. 拔槍訓練（Draw Practice）&lt;/h3&gt;
 &lt;p&gt;使用 AirsoftShotTimer 訓練從槍套快速拔槍並擊發的時間。&lt;/p&gt;
@@ -47,16 +54,7 @@
 &lt;li&gt;目標間距離 1-2 公尺&lt;/li&gt;
 &lt;li&gt;每個目標射擊 2 發（雙擊）&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;使用 AirsoftShotTimer：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;設定計時器&lt;/li&gt;
-&lt;li&gt;聽到開始訊號後，依序射擊所有目標&lt;/li&gt;
-&lt;li&gt;記錄完成時間&lt;/li&gt;
-&lt;li&gt;分析轉換速度和準確度&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;3-快速換彈匣訓練&#34;&gt;3. 快速換彈匣訓練&lt;/h3&gt;
-&lt;p&gt;Glock 17 的彈匣設計讓換彈匣既快速又直覺。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;訓練流程：&lt;/strong&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;使用 AirsoftShotTimer：&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
