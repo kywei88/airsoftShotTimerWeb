@@ -10,6 +10,8 @@ categories = ['Training Tips']
 
 IPSC (International Practical Shooting Confederation) is a shooting sport that combines **speed, accuracy, and power**. Unlike traditional target shooting, IPSC emphasizes quick and precise shooting in dynamic environments, closely simulating real-world scenarios.
 
+> 💡 **Further Reading**: Interested in more defense-focused practical training? Check out our **[Complete IDPA Training Guide](/en/posts/idpa-training-guide/)** to compare the differences between these two shooting sports.
+
 ### IPSC Core Principles: DVC
 
 - **D (Diligentia)** - Accuracy: Every shot must hit the target
@@ -262,6 +264,7 @@ Simulate competition pressure scenarios.
 ### Beginner Equipment
 
 - **Pistol**: Glock 17/19, CZ 75, and other reliable models
+  - Recommended reading: [Glock 17 Training Guide](/en/posts/glock17-training-guide/) - Learn in-depth training techniques for the Glock 17
 - **Holster**: Basic friction holster
 - **Magazine Pouches**: Double magazine pouch
 - **Protection**: Eye protection (mandatory)

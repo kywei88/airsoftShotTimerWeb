@@ -10,6 +10,8 @@ categories = ['訓練技巧']
 
 IPSC（International Practical Shooting Confederation，國際實用射擊協會）是一項結合**速度、準確度與威力**的射擊運動。與傳統靶場射擊不同，IPSC 強調在動態環境中快速、精準地擊中目標，更接近實戰情境。
 
+> 💡 **延伸閱讀**：想了解更注重防衛實戰的射擊訓練？請參考我們的 **[IDPA 防衛射擊完全訓練指南](/posts/idpa-training-guide/)**，比較兩種射擊運動的差異。
+
 ### IPSC 核心原則：DVC
 
 - **D (Diligentia)** - 準確度：每一發都要命中目標
@@ -262,6 +264,7 @@ IPSC 場地設計可能需要強弱手轉換。
 ### 初學者裝備
 
 - **手槍**：Glock 17/19、CZ 75 等可靠型號
+  - 推薦閱讀：[Glock 17 訓練指南](/posts/glock17-training-guide/) - 深入了解 Glock 17 的訓練技巧
 - **槍套**：基本款摩擦式槍套
 - **彈匣套**：雙連彈匣套
 - **護具**：護目鏡（必備）

@@ -31,6 +31,8 @@ IDPA（International Defensive Pistol Association，國際防衛手槍協會）�
 | **換彈** | 需在掩體後 | 可隨時換彈 |
 | **速度** | 較慢但更戰術 | 追求極限速度 |
 
+> 💡 **想了解更多 IPSC 訓練？** 請參考我們的 **[IPSC 實用射擊完全訓練指南](/posts/ipsc-training-guide/)**，深入了解競技射擊的訓練方法。
+
 ### 規則特色
 
 **IDPA 獨特規則：**
@@ -301,6 +303,7 @@ IDPA 對安全區要求極為嚴格：
 ### 初學者裝備
 
 - **手槍**：Glock 19、M&P 9、CZ P-09
+  - 推薦閱讀：[Glock 17 訓練指南](/posts/glock17-training-guide/) - Glock 系列的完整訓練技巧
 - **槍套**：隱蔽式 IWB 槍套
 - **彈匣套**：可隱藏的彈匣套
 - **遮蔽衣物**：夾克、襯衫、背心

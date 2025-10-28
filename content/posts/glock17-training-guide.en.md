@@ -19,6 +19,15 @@ The Glock 17 is one of the most popular pistols in airsoft, with its reliability
 - **High Reliability**: Stable performance in various environments
 - **Rich Accessories**: Highly customizable with easy upgrades
 
+### Glock 17 in Competitive Shooting
+
+The Glock 17 excels in various shooting sports, particularly suited for:
+
+- **[IPSC Practical Shooting](/en/posts/ipsc-training-guide/)**: Glock 17 fits in the Production Division, ideal for pursuing speed and accuracy in competitive shooting
+- **[IDPA Defensive Shooting](/en/posts/idpa-training-guide/)**: Meets SSP Division standards, making it an excellent choice for everyday carry defensive training
+
+Regardless of which shooting sport you choose, the Glock 17's reliability and ease of use allow you to focus on skill improvement.
+
 ## Basic Training Drills
 
 ### 1. Draw Practice

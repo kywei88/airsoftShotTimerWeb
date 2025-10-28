@@ -31,6 +31,8 @@ IDPA (International Defensive Pistol Association) is a shooting sport emphasizin
 | **Reloads** | Must be behind cover | Can reload anytime |
 | **Speed** | Slower but more tactical | Pursuit of ultimate speed |
 
+> 💡 **Want to learn more about IPSC training?** Check out our **[Complete IPSC Training Guide](/en/posts/ipsc-training-guide/)** to understand competitive shooting training methods in depth.
+
 ### Unique IDPA Rules
 
 1. **Magazine Management**: 3-second penalty for dropped magazines
@@ -300,6 +302,7 @@ IDPA has extremely strict safe area requirements:
 ### Beginner Equipment
 
 - **Pistol**: Glock 19, M&P 9, CZ P-09
+  - Recommended reading: [Glock 17 Training Guide](/en/posts/glock17-training-guide/) - Complete training techniques for Glock series
 - **Holster**: Concealed IWB holster
 - **Magazine Pouches**: Concealable magazine pouches
 - **Covering Clothing**: Jacket, shirt, vest

@@ -16,7 +16,10 @@ categories = ['一般']
 
 1. **功能介紹**：深入介紹 AirsoftShotTimer 的各項功能
 2. **使用教學**：step-by-step 的操作指南
-3. **訓練技巧**：提升射擊技能的實用建議
+3. **訓練技巧**：提升射擊技能的實用建議，包括：
+   - [Glock 17 訓練指南](/posts/glock17-training-guide/)：從基礎到進階的完整訓練計畫
+   - [IPSC 實用射擊訓練](/posts/ipsc-training-guide/)：競技射擊的速度與準確度訓練
+   - [IDPA 防衛射擊訓練](/posts/idpa-training-guide/)：實戰導向的戰術訓練
 4. **更新公告**：最新版本的功能更新
 5. **用戶故事**：分享使用者的訓練心得
 
