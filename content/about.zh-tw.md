@@ -6,6 +6,8 @@ title = '關於 AirsoftShotTimer'
 
 ## AirsoftShotTimer：專業 IPSC/IPDA 射手的計時利器
 
+![戰術訓練場景](/images/about/main.png)
+
 專為生存遊戲（Airsoft）與 IPSC、IPDA 射手設計，結合手機便利與高精度的射擊計時功能，讓你的訓練更有效、更精準。
 
 ## 核心亮點

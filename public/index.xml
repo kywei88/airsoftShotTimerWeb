@@ -6,8 +6,172 @@
     <description>Recent content on AirsoftShotTimer</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 26 Oct 2025 05:45:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 11:16:50 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IDPA 防衛射擊完全訓練指南：實戰導向的戰術訓練</title>
+      <link>http://localhost:1313/posts/idpa-training-guide/</link>
+      <pubDate>Tue, 28 Oct 2025 11:16:50 +0800</pubDate>
+      <guid>http://localhost:1313/posts/idpa-training-guide/</guid>
+      <description>&lt;h2 id=&#34;什麼是-idpa&#34;&gt;什麼是 IDPA？&lt;/h2&gt;
+&lt;p&gt;IDPA（International Defensive Pistol Association，國際防衛手槍協會）是一項強調&lt;strong&gt;真實防衛情境&lt;/strong&gt;的射擊運動。與 IPSC 不同，IDPA 更注重實戰應用，要求射手使用&lt;strong&gt;隱蔽攜帶&lt;/strong&gt;裝備，在模擬日常威脅的場景中進行射擊。&lt;/p&gt;
+&lt;h3 id=&#34;idpa-核心理念&#34;&gt;IDPA 核心理念&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;防衛為主&lt;/strong&gt;：場景設計源於真實防衛情境&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;隱蔽攜帶&lt;/strong&gt;：必須使用可日常攜帶的裝備&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;掩體使用&lt;/strong&gt;：強制要求正確使用掩體&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;戰術思維&lt;/strong&gt;：注重決策與威脅評估&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;idpa-與-ipsc-的差異&#34;&gt;IDPA 與 IPSC 的差異&lt;/h2&gt;
+&lt;h3 id=&#34;設計哲學不同&#34;&gt;設計哲學不同&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;項目&lt;/th&gt;
+          &lt;th&gt;IDPA&lt;/th&gt;
+          &lt;th&gt;IPSC&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;目標&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;防衛訓練&lt;/td&gt;
+          &lt;td&gt;競技射擊&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;場景&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;真實生活情境&lt;/td&gt;
+          &lt;td&gt;競技挑戰場景&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;裝備&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;日常隱蔽攜帶&lt;/td&gt;
+          &lt;td&gt;競賽專用改裝&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;掩體&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;必須正確使用&lt;/td&gt;
+          &lt;td&gt;可選擇性使用&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;彈匣&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;掉落會被罰時&lt;/td&gt;
+          &lt;td&gt;可自由拋棄&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;換彈&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;需在掩體後&lt;/td&gt;
+          &lt;td&gt;可隨時換彈&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;速度&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;較慢但更戰術&lt;/td&gt;
+          &lt;td&gt;追求極限速度&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;規則特色&#34;&gt;規則特色&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;IDPA 獨特規則：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;彈匣管理&lt;/strong&gt;：彈匣掉落罰 3 秒&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;掩體要求&lt;/strong&gt;：露出身體超過 50% 罰時&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;安全區嚴格&lt;/strong&gt;：連裝彈匣都不可以&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;隱蔽攜帶&lt;/strong&gt;：槍套必須能日常攜帶&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;戰術優先&lt;/strong&gt;：重視安全移動與掩護&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;idpa-競賽組別&#34;&gt;IDPA 競賽組別&lt;/h2&gt;
+&lt;h3 id=&#34;sspstock-service-pistol標準服務手槍&#34;&gt;SSP（Stock Service Pistol，標準服務手槍）&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;最接近原廠狀態&lt;/li&gt;
+&lt;li&gt;適合新手與日常攜帶者&lt;/li&gt;
+&lt;li&gt;常見槍型：Glock、M&amp;amp;P、CZ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;espenhanced-service-pistol增強服務手槍&#34;&gt;ESP（Enhanced Service Pistol，增強服務手槍）&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;允許基本改裝&lt;/li&gt;
+&lt;li&gt;可使用較大口徑&lt;/li&gt;
+&lt;li&gt;常見槍型：1911、CZ Shadow&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ccpcompact-carry-pistol緊湊型攜帶手槍&#34;&gt;CCP（Compact Carry Pistol，緊湊型攜帶手槍）&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;小型日常攜帶手槍&lt;/li&gt;
+&lt;li&gt;長度與重量限制&lt;/li&gt;
+&lt;li&gt;適合實際 CCW 訓練&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;cdpcustom-defensive-pistol客製化防衛手槍&#34;&gt;CDP（Custom Defensive Pistol，客製化防衛手槍）&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;允許客製化改裝&lt;/li&gt;
+&lt;li&gt;主要為 1911 系統&lt;/li&gt;
+&lt;li&gt;追求精準度與舒適度&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;revrevolver左輪手槍&#34;&gt;REV（Revolver，左輪手槍）&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;左輪手槍專用組別&lt;/li&gt;
+&lt;li&gt;保留傳統射擊技術&lt;/li&gt;
+&lt;li&gt;強調基礎射擊能力&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;使用-airsoftshottimer-進行-idpa-訓練&#34;&gt;使用 AirsoftShotTimer 進行 IDPA 訓練&lt;/h2&gt;
+&lt;h3 id=&#34;1-隱蔽攜帶拔槍訓練&#34;&gt;1. 隱蔽攜帶拔槍訓練&lt;/h3&gt;
+&lt;p&gt;IDPA 要求從隱蔽攜帶狀態拔槍，比開放式槍套更具挑戰性。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>IPSC 實用射擊完全訓練指南：從新手到進階</title>
+      <link>http://localhost:1313/posts/ipsc-training-guide/</link>
+      <pubDate>Tue, 28 Oct 2025 11:11:32 +0800</pubDate>
+      <guid>http://localhost:1313/posts/ipsc-training-guide/</guid>
+      <description>&lt;h2 id=&#34;什麼是-ipsc&#34;&gt;什麼是 IPSC？&lt;/h2&gt;
+&lt;p&gt;IPSC（International Practical Shooting Confederation，國際實用射擊協會）是一項結合&lt;strong&gt;速度、準確度與威力&lt;/strong&gt;的射擊運動。與傳統靶場射擊不同，IPSC 強調在動態環境中快速、精準地擊中目標，更接近實戰情境。&lt;/p&gt;
+&lt;h3 id=&#34;ipsc-核心原則dvc&#34;&gt;IPSC 核心原則：DVC&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;D (Diligentia)&lt;/strong&gt; - 準確度：每一發都要命中目標&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;V (Vis)&lt;/strong&gt; - 威力：使用足夠威力的彈藥&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;C (Celeritas)&lt;/strong&gt; - 速度：在最短時間內完成射擊&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ipsc-競賽組別&#34;&gt;IPSC 競賽組別&lt;/h2&gt;
+&lt;p&gt;IPSC 分為多個組別，讓不同程度的射手都能參與：&lt;/p&gt;
+&lt;h3 id=&#34;production標準組&#34;&gt;Production（標準組）&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;最接近原廠配置的手槍&lt;/li&gt;
+&lt;li&gt;適合新手入門&lt;/li&gt;
+&lt;li&gt;彈匣容量限制 15 發&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;standard標準進階組&#34;&gt;Standard（標準進階組）&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;允許基本改裝&lt;/li&gt;
+&lt;li&gt;彈匣容量限制 15 發&lt;/li&gt;
+&lt;li&gt;口徑限制 9mm 以上&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;open公開組&#34;&gt;Open（公開組）&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;最自由的改裝規則&lt;/li&gt;
+&lt;li&gt;可使用紅點瞄具、補償器&lt;/li&gt;
+&lt;li&gt;追求極限速度&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;classic經典組&#34;&gt;Classic（經典組）&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;傳統手槍設計&lt;/li&gt;
+&lt;li&gt;不允許紅點瞄具&lt;/li&gt;
+&lt;li&gt;適合喜愛經典槍械的射手&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;使用-airsoftshottimer-進行-ipsc-訓練&#34;&gt;使用 AirsoftShotTimer 進行 IPSC 訓練&lt;/h2&gt;
+&lt;h3 id=&#34;1-拔槍訓練draw&#34;&gt;1. 拔槍訓練（Draw）&lt;/h3&gt;
+&lt;p&gt;IPSC 最基本也最重要的技巧。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;訓練步驟：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;採用競賽姿勢（雙手自然放鬆）&lt;/li&gt;
+&lt;li&gt;聽到計時器訊號後，快速拔槍&lt;/li&gt;
+&lt;li&gt;向目標射擊 2 發（Double Tap）&lt;/li&gt;
+&lt;li&gt;記錄「第一發擊發時間」&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;目標時間（氣槍）：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;新手：1.5-2.0 秒&lt;/li&gt;
+&lt;li&gt;中級：1.0-1.5 秒&lt;/li&gt;
+&lt;li&gt;進階：0.8-1.0 秒&lt;/li&gt;
+&lt;li&gt;高手：&amp;lt; 0.8 秒&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;使用 AirsoftShotTimer：&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Glock 17 訓練指南：使用 AirsoftShotTimer 提升射擊技巧</title>
       <link>http://localhost:1313/posts/glock17-training-guide/</link>
@@ -92,6 +256,7 @@
       <pubDate>Sun, 26 Oct 2025 05:36:24 +0800</pubDate>
       <guid>http://localhost:1313/about/</guid>
       <description>&lt;h2 id=&#34;airsoftshottimer專業-ipscipda-射手的計時利器&#34;&gt;AirsoftShotTimer：專業 IPSC/IPDA 射手的計時利器&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;戰術訓練場景&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/about/main.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;專為生存遊戲（Airsoft）與 IPSC、IPDA 射手設計，結合手機便利與高精度的射擊計時功能，讓你的訓練更有效、更精準。&lt;/p&gt;
 &lt;h2 id=&#34;核心亮點&#34;&gt;核心亮點&lt;/h2&gt;
 &lt;h3 id=&#34;先進槍聲辨識演算法&#34;&gt;先進槍聲辨識演算法&lt;/h3&gt;

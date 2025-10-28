@@ -35,9 +35,22 @@ title = 'AirsoftShotTimer'
 [languages.zh-tw.params]
 description = 'AirsoftShotTimer App 功能介紹與使用指南'
 
-[languages.zh-tw.params.homeInfoParams]
-Title = '歡迎來到 AirsoftShotTimer'
-Content = '探索 AirsoftShotTimer 的強大功能，提升您的訓練效率'
+[languages.zh-tw.params.profileMode]
+enabled = true
+title = '歡迎來到 AirsoftShotTimer'
+subtitle = '專業 IPSC/IPDA 射手的計時利器'
+imageUrl = '/images/main/shooter.png'
+imageTitle = '射擊訓練'
+imageWidth = 800
+imageHeight = 533
+
+[[languages.zh-tw.params.profileMode.buttons]]
+name = '文章'
+url = '/posts/'
+
+[[languages.zh-tw.params.profileMode.buttons]]
+name = '關於'
+url = '/about/'
 
 [[languages.zh-tw.menu.main]]
 identifier = 'home'
@@ -67,9 +80,22 @@ title = 'AirsoftShotTimer'
 [languages.en.params]
 description = 'AirsoftShotTimer App Features and User Guide'
 
-[languages.en.params.homeInfoParams]
-Title = 'Welcome to AirsoftShotTimer'
-Content = 'Explore the powerful features of AirsoftShotTimer and enhance your training efficiency'
+[languages.en.params.profileMode]
+enabled = true
+title = 'Welcome to AirsoftShotTimer'
+subtitle = 'Professional Timing Tool for IPSC/IPDA Shooters'
+imageUrl = '/images/main/shooter.png'
+imageTitle = 'Shooting Training'
+imageWidth = 800
+imageHeight = 533
+
+[[languages.en.params.profileMode.buttons]]
+name = 'Posts'
+url = '/en/posts/'
+
+[[languages.en.params.profileMode.buttons]]
+name = 'About'
+url = '/en/about/'
 
 [[languages.en.menu.main]]
 identifier = 'home'

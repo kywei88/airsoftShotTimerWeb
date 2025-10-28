@@ -9,7 +9,9 @@
       "Bash(hugo server:*)",
       "Bash(hugo list:*)",
       "Bash(curl:*)",
-      "Bash(tree:*)"
+      "Bash(tree:*)",
+      "WebSearch",
+      "Bash(git add:*)"
     ],
     "deny": [],
     "ask": []

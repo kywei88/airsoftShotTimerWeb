@@ -6,6 +6,8 @@ title = 'About AirsoftShotTimer'
 
 ## AirsoftShotTimer: Professional Timing Tool for IPSC/IPDA Shooters
 
+![Tactical Training Scene](/images/about/main.png)
+
 Designed specifically for Airsoft and IPSC/IPDA shooters, combining mobile convenience with high-precision shot timing functionality to make your training more effective and accurate.
 
 ## Core Highlights
