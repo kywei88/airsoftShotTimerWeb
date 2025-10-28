@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://airsoft-shot-timer-web.vercel.app/'
 defaultContentLanguage = 'zh-tw'
 theme = 'PaperMod'
 
