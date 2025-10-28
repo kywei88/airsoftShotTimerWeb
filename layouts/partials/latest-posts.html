@@ -1,0 +1,17 @@
+<aside class="latest-posts">
+  <h3>
+    {{- if eq .Language.Lang "zh-tw" }}
+    最新文章
+    {{- else }}
+    Latest Posts
+    {{- end }}
+  </h3>
+  <ul>
+    {{ range first 5 ( where .Site.RegularPages "Section" "posts" ).ByDate.Reverse }}
+      <li>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        <small class="post-date">{{ .Date.Format "2006-01-02" }}</small>
+      </li>
+    {{ end }}
+  </ul>
+</aside>

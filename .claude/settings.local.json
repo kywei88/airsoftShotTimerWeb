@@ -16,7 +16,8 @@
       "Bash(gh auth status:*)",
       "Bash(gh repo create:*)",
       "Bash(git push)",
-      "Bash(hugo:*)"
+      "Bash(hugo:*)",
+      "Read(//Users/david/Downloads/**)"
     ],
     "deny": [],
     "ask": []
