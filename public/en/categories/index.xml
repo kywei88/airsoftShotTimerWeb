@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on AirsoftShotTimer</title>
+    <link>http://localhost:1313/en/categories/</link>
+    <description>Recent content in Categories on AirsoftShotTimer</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 26 Oct 2025 05:45:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Training Tips</title>
+      <link>http://localhost:1313/en/categories/training-tips/</link>
+      <pubDate>Sun, 26 Oct 2025 05:45:00 +0800</pubDate>
+      <guid>http://localhost:1313/en/categories/training-tips/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>General</title>
+      <link>http://localhost:1313/en/categories/general/</link>
+      <pubDate>Sun, 26 Oct 2025 05:36:40 +0800</pubDate>
+      <guid>http://localhost:1313/en/categories/general/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AirsoftShotTimer</title>
+    <link>http://localhost:1313/en/</link>
+    <description>Recent content on AirsoftShotTimer</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 26 Oct 2025 05:45:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Glock 17 Training Guide: Improve Your Shooting Skills with AirsoftShotTimer</title>
+      <link>http://localhost:1313/en/posts/glock17-training-guide/</link>
+      <pubDate>Sun, 26 Oct 2025 05:45:00 +0800</pubDate>
+      <guid>http://localhost:1313/en/posts/glock17-training-guide/</guid>
+      <description>&lt;h2 id=&#34;complete-glock-17-airsoft-training-guide&#34;&gt;Complete Glock 17 Airsoft Training Guide&lt;/h2&gt;
+&lt;p&gt;The Glock 17 is one of the most popular pistols in airsoft, with its reliability and ease of use making it the top choice for both beginners and veterans. This article will show you how to use AirsoftShotTimer to enhance your Glock 17 shooting skills.&lt;/p&gt;
+&lt;h2 id=&#34;why-choose-the-glock-17&#34;&gt;Why Choose the Glock 17?&lt;/h2&gt;
+&lt;h3 id=&#34;key-advantages&#34;&gt;Key Advantages&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;High Capacity&lt;/strong&gt;: Standard magazines hold 17-25 rounds&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Simple Operation&lt;/strong&gt;: Intuitive design, suitable for beginners&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;High Reliability&lt;/strong&gt;: Stable performance in various environments&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rich Accessories&lt;/strong&gt;: Highly customizable with easy upgrades&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;basic-training-drills&#34;&gt;Basic Training Drills&lt;/h2&gt;
+&lt;h3 id=&#34;1-draw-practice&#34;&gt;1. Draw Practice&lt;/h3&gt;
+&lt;p&gt;Use AirsoftShotTimer to train your speed in drawing from holster and firing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome to AirsoftShotTimer!</title>
+      <link>http://localhost:1313/en/posts/welcome/</link>
+      <pubDate>Sun, 26 Oct 2025 05:36:40 +0800</pubDate>
+      <guid>http://localhost:1313/en/posts/welcome/</guid>
+      <description>&lt;h2 id=&#34;welcome-to-airsoftshottimer-blog&#34;&gt;Welcome to AirsoftShotTimer Blog!&lt;/h2&gt;
+&lt;p&gt;We&amp;rsquo;re excited to share various features and tips for using AirsoftShotTimer with you here.&lt;/p&gt;
+&lt;h3 id=&#34;what-will-this-blog-share&#34;&gt;What Will This Blog Share?&lt;/h3&gt;
+&lt;p&gt;In this blog, we will regularly publish:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Feature Introductions&lt;/strong&gt;: In-depth introduction to AirsoftShotTimer&amp;rsquo;s features&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How-to Guides&lt;/strong&gt;: Step-by-step operation guides&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Training Tips&lt;/strong&gt;: Practical suggestions to improve shooting skills&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Update Announcements&lt;/strong&gt;: Latest version feature updates&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;User Stories&lt;/strong&gt;: Sharing user training experiences&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;quick-start&#34;&gt;Quick Start&lt;/h3&gt;
+&lt;p&gt;If you&amp;rsquo;re using AirsoftShotTimer for the first time, we recommend:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About AirsoftShotTimer</title>
+      <link>http://localhost:1313/en/about/</link>
+      <pubDate>Sun, 26 Oct 2025 05:36:24 +0800</pubDate>
+      <guid>http://localhost:1313/en/about/</guid>
+      <description>&lt;h2 id=&#34;airsoftshottimer-professional-timing-tool-for-ipscipda-shooters&#34;&gt;AirsoftShotTimer: Professional Timing Tool for IPSC/IPDA Shooters&lt;/h2&gt;
+&lt;p&gt;Designed specifically for Airsoft and IPSC/IPDA shooters, combining mobile convenience with high-precision shot timing functionality to make your training more effective and accurate.&lt;/p&gt;
+&lt;h2 id=&#34;core-highlights&#34;&gt;Core Highlights&lt;/h2&gt;
+&lt;h3 id=&#34;advanced-gunshot-recognition-algorithm&#34;&gt;Advanced Gunshot Recognition Algorithm&lt;/h3&gt;
+&lt;p&gt;Accurately detects various airsoft gun sounds even in noisy environments, ensuring every shot is recorded.&lt;/p&gt;
+&lt;h3 id=&#34;comprehensive-sensitivity-adjustment&#34;&gt;Comprehensive Sensitivity Adjustment&lt;/h3&gt;
+&lt;p&gt;Supports wide-range sensitivity settings from light impulses to heavy gunshots, perfectly adapting to different gun types and venues.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
