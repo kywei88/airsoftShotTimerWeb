@@ -1,6 +1,6 @@
 +++
 title = 'Glock Caliber Comparison: 9mm vs .45 ACP vs 10mm'
-date = 2024-11-02T18:07:00+08:00
+date = 2025-11-03T14:07:00+08:00
 draft = false
 tags = ['Glock', 'Caliber', 'Ballistics', 'Technical Specs']
 categories = ['Equipment Knowledge']

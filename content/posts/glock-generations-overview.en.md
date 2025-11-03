@@ -1,6 +1,6 @@
 +++
 title = 'Glock Gen 1-5 Overview: From Prototype to Modern Evolution'
-date = 2024-11-02T18:03:00+08:00
+date = 2025-11-03T14:03:00+08:00
 draft = false
 tags = ['Glock', 'Generation Evolution', 'Technical Features']
 categories = ['Equipment Knowledge']

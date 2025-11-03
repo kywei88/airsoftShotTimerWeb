@@ -1,6 +1,6 @@
 +++
 title = '為何 Glock 有 G17、G18、G19 的編號？'
-date = 2024-11-02T18:04:00+08:00
+date = 2025-11-03T14:04:00+08:00
 draft = false
 tags = ['Glock', '型號說明', '歷史']
 categories = ['裝備知識']

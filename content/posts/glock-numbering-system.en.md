@@ -1,6 +1,6 @@
 +++
 title = 'Why Does Glock Have G17, G18, G19 Numbering?'
-date = 2024-11-02T18:04:00+08:00
+date = 2025-11-03T14:04:00+08:00
 draft = false
 tags = ['Glock', 'Model Explanation', 'History']
 categories = ['Equipment Knowledge']

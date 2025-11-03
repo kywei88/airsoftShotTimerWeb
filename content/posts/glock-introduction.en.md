@@ -1,6 +1,6 @@
 +++
 title = 'Complete Introduction to Glock Pistols'
-date = 2024-11-02T18:12:00+08:00
+date = 2025-11-03T14:12:00+08:00
 draft = false
 tags = ['Glock', 'Pistol', 'Airsoft', 'Equipment Guide']
 categories = ['Equipment Knowledge']

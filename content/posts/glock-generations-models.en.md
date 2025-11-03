@@ -1,6 +1,6 @@
 +++
 title = 'Glock Gen 1-5 Representative Models'
-date = 2024-11-02T18:02:00+08:00
+date = 2025-11-03T14:02:00+08:00
 draft = false
 tags = ['Glock', 'Generations', 'Model List']
 categories = ['Equipment Knowledge']
