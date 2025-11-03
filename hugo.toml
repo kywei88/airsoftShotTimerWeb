@@ -24,6 +24,9 @@ url = 'https://github.com'
 
 [outputs]
 home = ['HTML', 'RSS', 'JSON']
+section = ['HTML', 'RSS']
+taxonomy = ['HTML', 'RSS']
+term = ['HTML', 'RSS']
 
 # 繁體中文
 [languages.zh-tw]
