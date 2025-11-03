@@ -1,0 +1,17 @@
+{{ define "main" }}
+  <header class="page-header">
+    {{ partial "breadcrumbs.html" . }}
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}<div class="post-description">{{ . | markdownify }}</div>{{ end }}
+  </header>
+
+  {{ $taxonomy := .Data.Plural }}
+  <div class="terms-tags">
+    <ul>
+      {{ range .Data.Terms.Alphabetical }}
+        <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> ({{ .Count }})</li>
+      {{ end }}
+    </ul>
+  </div>
+{{ end }}
+

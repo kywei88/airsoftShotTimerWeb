@@ -1,0 +1,27 @@
+{{- define "main" }}
+  {{- if not .IsHome }}
+  <header class="page-header">
+    {{- partial "breadcrumbs.html" . }}
+    <h1>{{ .Title }}</h1>
+    {{- with .Description }}
+    <div class="post-description">{{ . | markdownify }}</div>
+    {{- end }}
+  </header>
+  {{- end }}
+
+  {{- $pages := union .RegularPages .Sections }}
+  {{- range $index, $page := $pages }}
+  <article class="post-entry">
+    <header class="entry-header">
+      <h2 class="entry-hint-parent">{{ $page.Title }}</h2>
+    </header>
+    {{- if (ne ($page.Param "hideSummary") true) }}
+    <div class="entry-content">
+      <p>{{ $page.Summary | plainify | htmlUnescape }}</p>
+    </div>
+    {{- end }}
+    <a class="entry-link" aria-label="post link to {{ $page.Title | plainify }}" href="{{ $page.Permalink }}"></a>
+  </article>
+  {{- end }}
+{{- end }}
+
