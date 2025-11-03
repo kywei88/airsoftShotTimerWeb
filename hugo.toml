@@ -1,6 +1,7 @@
 baseURL = 'https://airsoft-shot-timer-web.vercel.app/'
 defaultContentLanguage = 'zh-tw'
 theme = 'PaperMod'
+disableKinds = ['RSS']
 
 [pagination]
 pagerSize = 10
@@ -23,16 +24,13 @@ name = 'github'
 url = 'https://github.com'
 
 [outputs]
-home = ['HTML', 'RSS', 'JSON']
-section = ['HTML', 'RSS']
-taxonomy = ['HTML', 'RSS']
-term = ['HTML', 'RSS']
+home = ['HTML', 'JSON']
+section = ['HTML']
+taxonomy = ['HTML']
+term = ['HTML']
 
 # Ensure RSS does not use index.xml to avoid index selection conflicts on some hosts
-[outputFormats]
-  [outputFormats.RSS]
-  mediatype = 'application/rss+xml'
-  baseName = 'feed'
+# Note: RSS disabled above to avoid index.xml conflicts on some hosts
 
 # 繁體中文
 [languages.zh-tw]
