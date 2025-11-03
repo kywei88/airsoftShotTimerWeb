@@ -36,3 +36,4 @@ This repository is a Hugo static site for AirsoftShotTimer, using the PaperMod t
 - Do not commit secrets; configuration belongs in `hugo.toml`. Update menus and language blocks consistently.
 - Images: Place under `static/images/...` and reference with absolute paths (e.g., `/images/main/shooter.png`).
 
+請用繁體中文回應使用者
