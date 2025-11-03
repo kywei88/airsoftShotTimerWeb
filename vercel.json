@@ -1,5 +1,5 @@
 {
-  "buildCommand": "hugo --gc --minify --cleanDestinationDir && echo '--- public/posts ---' && ls -la public/posts || true",
+  "buildCommand": "git submodule update --init --recursive && hugo --gc --minify --cleanDestinationDir && echo '--- public/posts ---' && ls -la public/posts || true",
   "outputDirectory": "public",
   "trailingSlash": true
 }
