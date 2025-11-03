@@ -28,6 +28,12 @@ section = ['HTML', 'RSS']
 taxonomy = ['HTML', 'RSS']
 term = ['HTML', 'RSS']
 
+# Ensure RSS does not use index.xml to avoid index selection conflicts on some hosts
+[outputFormats]
+  [outputFormats.RSS]
+  mediatype = 'application/rss+xml'
+  baseName = 'feed'
+
 # 繁體中文
 [languages.zh-tw]
 languageCode = 'zh-TW'
