@@ -17,7 +17,13 @@
       "Bash(gh repo create:*)",
       "Bash(git push)",
       "Bash(hugo:*)",
-      "Read(//Users/david/Downloads/**)"
+      "Read(//Users/david/Downloads/**)",
+      "Bash(cat:*)",
+      "Bash(git ls-tree:*)",
+      "Bash(npm install:*)",
+      "Bash(vercel --version:*)",
+      "Bash(vercel ls:*)",
+      "Bash(awk:*)"
     ],
     "deny": [],
     "ask": []
